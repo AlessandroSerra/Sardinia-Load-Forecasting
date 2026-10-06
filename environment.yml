@@ -1,0 +1,15 @@
+name: timeseries
+channels:
+  - conda-forge
+dependencies:
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - requests
+  - python-dotenv
+  - ipykernel
+  - openpyxl
+  - pyarrow
+  - holidays
+  - xgboost

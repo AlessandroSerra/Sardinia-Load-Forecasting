@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+matplotlib
+scikit-learn
+xgboost
+requests
+python-dotenv
+openpyxl
+holidays
+jupyterlab
