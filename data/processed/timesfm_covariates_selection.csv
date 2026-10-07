@@ -1,0 +1,2 @@
+selection_metric,best_overall,selected_covariate,features,context_hours,horizon_hours,checkpoint_revision
+2025-10-01 through 2025-12-31 MAE,univariate,calendar_weather,"hour, day_of_week, is_weekend, is_holiday, temperature_weighted, humidity_weighted, cloud_cover_weighted, temperature_min, temperature_max",336,24,43046b85ec22d584a13f8098c2ed39c889e129c2
